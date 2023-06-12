@@ -1,0 +1,19 @@
+#qwerty {
+    text-align: center;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 35px;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-style: italic;
+}
